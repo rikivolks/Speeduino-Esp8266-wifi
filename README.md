@@ -16,6 +16,14 @@ This is the easiest method to compile the firmware here
 
 Arduino Soft needs the library esp8266 community on this link explains how to install https://www.arduined.eu/ch340-windows-10-driver-download/
 
+Now you are ready to flash the firmware via Arduino soft.
+open the project "Speeduino_esp8266.ino"
+-You can mod the name "ssid" or "pw" is the password over 6 number or letter generic pass is 123456789
+-Select Boards generic esp8266 or wenos D1 R2
+-Select port com
+-Compile the soft
+
+
  
 
 
