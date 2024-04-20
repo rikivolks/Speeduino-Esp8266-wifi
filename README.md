@@ -16,7 +16,10 @@ This is the easiest method to compile the firmware here
  
  Download driver USB ch 340 and install https://www.arduined.eu/ch340-windows-10-driver-download/
 
-Arduino Soft needs the library esp8266 community on this link explains how to install https://www.arduined.eu/ch340-windows-10-driver-download/
+Arduino Soft needs the library esp8266 community on this link for explains 
+
+How to install https://www.arduined.eu/ch340-windows-10-driver-download/
+
 First Methode
 
 Now you are ready to flash the firmware via Arduino soft.
