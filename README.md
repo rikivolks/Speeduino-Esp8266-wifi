@@ -28,6 +28,8 @@ Second method very fast
 Via binary file no modification is possible
 Download this software Flash Download Tools Windows PC	V3.9.6
 https://www.espressif.com/en/support/download/all
+-Install the software 
+-Select the file binary Speeduino_esp8266.ino.bin write start to 0x00000
 
 
  
