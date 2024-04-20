@@ -66,7 +66,7 @@ you need to connect
 
 -5volt
 
-when the connection is established on Tuner Studio the LED blue is open on Wemos D1 r2 board and esp-01 the LED blinks.
+When the connection is established on Tuner Studio the LED blue is open on Wemos D1 r2 board and esp-01 the LED blinks.
 if you lose communication the LED keeps open normally i can not close the LED without good communication.
 
 
