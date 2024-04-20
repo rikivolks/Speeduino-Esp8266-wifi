@@ -47,6 +47,10 @@ https://www.espressif.com/en/support/download/all
 
 -Select the file binary Speeduino_esp8266.ino.bin write start to 0x00000
 
+-Select port com
+
+-Start
+
 ![2024-04-20_193058](https://github.com/rikivolks/Speeduino-Esp8266-wifi/assets/65349824/3a611e79-ef86-4bc5-9ff7-3c786c9506db)
 
 Pin-out wiring is important 
