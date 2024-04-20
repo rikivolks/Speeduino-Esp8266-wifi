@@ -35,7 +35,7 @@ open the project "Speeduino_esp8266.ino"
 
 ![2024-04-20_191409](https://github.com/rikivolks/Speeduino-Esp8266-wifi/assets/65349824/2b320a75-25bd-46b3-9357-9a7b63cb67a3)
 
-The second method is very fast 
+The second method is fast 
 Via binary file no modification is possible
 Download this software Flash Download Tools Windows PC	V3.9.6
 https://www.espressif.com/en/support/download/all
@@ -44,12 +44,20 @@ https://www.espressif.com/en/support/download/all
 
 ![2024-04-20_193058](https://github.com/rikivolks/Speeduino-Esp8266-wifi/assets/65349824/3a611e79-ef86-4bc5-9ff7-3c786c9506db)
 
-Pin out is very important you need to connect 
--Tx esp8266 to RX mega pro
--RX mega pro Tx esp8266
+Pin-out wiring is important 
+
+you need to connect 
+
+-TX esp8266 to RX mega pro
+
+-RX esp8266 to TX mega pro
+
 -GND
+
 -5volt
-when the connection is established  the led blue is open on 
+
+when the connection is established on Tuner Studio the LED blue is open on Wemos D1 r2 board and esp-01 the LED blinks.
+if you lose communication the LED keeps open normally i can not close the LED without good communication.
 
 
  
