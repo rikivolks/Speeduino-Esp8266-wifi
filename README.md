@@ -24,6 +24,11 @@ open the project "Speeduino_esp8266.ino"
 -Compile the soft
 ![2024-04-20_191409](https://github.com/rikivolks/Speeduino-Esp8266-wifi/assets/65349824/2b320a75-25bd-46b3-9357-9a7b63cb67a3)
 
+Second method very fast 
+Via binary file no modification is possible
+Download this software Flash Download Tools Windows PC	V3.9.6
+https://www.espressif.com/en/support/download/all
+
 
  
 
