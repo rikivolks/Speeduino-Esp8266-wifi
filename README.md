@@ -1,12 +1,14 @@
 # Speeduino-Esp8266-wifi
 Wifi On Speeduino Poject
 
-Here is how to use an esp8266 wifi with a Speeduino ECU on mega 2560.
-You need esp-01 or esp-12 you can ckeck on Aliexpress many clone is selling
+Here is how to use an esp8266 wifi with a Speeduino ECU on Mega 2560.
+You need esp-01 or esp-12 (D1 Mini TYPE-C/MICRO ESP8266) you can ckeck on Aliexpress many clones is selling
 
 ![2024-04-20_184204](https://github.com/rikivolks/Speeduino-Esp8266-wifi/assets/65349824/440f38aa-82b9-431b-adda-a7cc072893bf)
 
 ![2024-04-20_184006](https://github.com/rikivolks/Speeduino-Esp8266-wifi/assets/65349824/7900dfe9-0e1e-4d2c-8b1d-818b82042be6)
+
+Documentation esp8266 https://randomnerdtutorials.com/esp8266-pinout-reference-gpios/
 
 This is the easiest method to compile the firmware here
  
@@ -24,12 +26,21 @@ open the project "Speeduino_esp8266.ino"
 -Compile the soft
 ![2024-04-20_191409](https://github.com/rikivolks/Speeduino-Esp8266-wifi/assets/65349824/2b320a75-25bd-46b3-9357-9a7b63cb67a3)
 
-Second method very fast 
+The second method is very fast 
 Via binary file no modification is possible
 Download this software Flash Download Tools Windows PC	V3.9.6
 https://www.espressif.com/en/support/download/all
 -Install the software 
 -Select the file binary Speeduino_esp8266.ino.bin write start to 0x00000
+
+![2024-04-20_193058](https://github.com/rikivolks/Speeduino-Esp8266-wifi/assets/65349824/3a611e79-ef86-4bc5-9ff7-3c786c9506db)
+
+Pin out is very important you need to connect 
+-Tx esp8266 to RX mega pro
+-RX mega pro Tx esp8266
+-GND
+-5volt
+when the connection is established  the led blue is open on 
 
 
  
