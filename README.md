@@ -14,6 +14,8 @@ You need esp-01 or esp-12 you can ckeck on aliexpress many clone is selling
  
  Download driver usb ch 340 and install https://www.arduined.eu/ch340-windows-10-driver-download/
 
+ You need librairy esp8266 communauty on this links is explained how to intall https://www.arduined.eu/ch340-windows-10-driver-download/
+
  
 
 
