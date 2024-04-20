@@ -8,13 +8,13 @@ You need esp-01 or esp-12 you can ckeck on Aliexpress many clone is selling
 
 ![2024-04-20_184006](https://github.com/rikivolks/Speeduino-Esp8266-wifi/assets/65349824/7900dfe9-0e1e-4d2c-8b1d-818b82042be6)
 
- This is easier to compile the firmware here
+This is the easiest method to compile the firmware here
  
  Download and install Arduino Soft https://www.arduino.cc/en/software
  
  Download driver USB ch 340 and install https://www.arduined.eu/ch340-windows-10-driver-download/
 
- You need library esp8266 community on this link is explained how to install https://www.arduined.eu/ch340-windows-10-driver-download/
+Arduino Soft needs the library esp8266 community on this link explains how to install https://www.arduined.eu/ch340-windows-10-driver-download/
 
  
 
