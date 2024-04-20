@@ -36,10 +36,15 @@ open the project "Speeduino_esp8266.ino"
 ![2024-04-20_191409](https://github.com/rikivolks/Speeduino-Esp8266-wifi/assets/65349824/2b320a75-25bd-46b3-9357-9a7b63cb67a3)
 
 The second method is fast 
+
 Via binary file no modification is possible
+
 Download this software Flash Download Tools Windows PC	V3.9.6
+
 https://www.espressif.com/en/support/download/all
+
 -Install the software 
+
 -Select the file binary Speeduino_esp8266.ino.bin write start to 0x00000
 
 ![2024-04-20_193058](https://github.com/rikivolks/Speeduino-Esp8266-wifi/assets/65349824/3a611e79-ef86-4bc5-9ff7-3c786c9506db)
