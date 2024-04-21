@@ -69,6 +69,13 @@ you need to connect
 When the connection is established on Tuner Studio the LED blue is open on Wemos D1 r2 board and esp-01 the LED blinks.
 if you lose communication the LED keeps open normally i can not close the LED without good communication on Wemos D1 mini but the D1 is very fast communication.
 
+Vidéo Watch you tube 
+
+https://youtu.be/FwHLLHvOsPQ
+
+Give Me a Tequila's Shot 🍺😜
+
+
 
  
 
