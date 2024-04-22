@@ -76,7 +76,9 @@ https://youtu.be/FwHLLHvOsPQ
 
 Give Me a Tequila's Shot 🍺😜
 
-News ResultsAfter many tests The TX RX ( I'm supposed ) needs a Bi-Directional Logic Level Converter. When is connected on esp the speeduino lag to start the code no fuel pump and no primary injection without a big delay time.
+News Results 
+
+After many tests The TX RX ( I'm supposed ) needs a Bi-Directional Logic Level Converter. When is connected on esp the speeduino lag to start the code no fuel pump and no primary injection without a big delay time.
 
 ![12009-06](https://github.com/rikivolks/Speeduino-Esp8266-wifi/assets/65349824/b152d5c2-a388-495c-bec2-96d67973a935)
 
