@@ -1,5 +1,8 @@
 # Speeduino-Esp8266-wifi
 Wifi On Speeduino Poject
+For serial 3  i dont have tested (relply please)
+For serial 1 you need to change resistor 220 for 1k on tx rx on mega pro or mega ch340 clone  
+But fuel pump is not activated before 10 sec but is work fine after wait  same a anti cheaf lol
 
 Here is how to use an esp8266 wifi with a Speeduino ECU on Mega 2560.
 You need esp-01 or esp-12 (D1 Mini TYPE-C/MICRO ESP8266) you can ckeck on Aliexpress many clones is selling
