@@ -4,7 +4,7 @@ Wifi On Speeduino Poject
 Here is how to use an esp8266 wifi with a Speeduino ECU on Mega 2560.
 You need esp-01 or esp-12 (D1 Mini TYPE-C/MICRO ESP8266) you can ckeck on Aliexpress many clones is selling
 
-Mego ok stm32 done
+Mega ok stm32 done nothing fucking problem communication lol
 
 For serial 3  i dont have tested (relply please)
 
